@@ -1,0 +1,26 @@
+# built application files
+*.apk
+*.ap_
+# files for the dex VM
+*.dex
+# Java class files
+*.class
+# built native files（如果使用了第三方库，就移除该项）
+*.o
+*.so
+# generated files
+bin/
+gen/
+# Ignore gradle files
+.gradle/
+build/
+
+# .idea文件
+.idea/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+
+
+
